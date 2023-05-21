@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrScan</string>
+    <string name="facebook_app_id">776520023813713</string>
+    <string name="fb_login_protocol_scheme">fbcbb7ae9200b8a9901d5f77e01c8e3034</string>
+    <string name="facebook_client_token">123-THIS-IS-YOUR-CLIENT-TOKEN</string>
+
+
+
+
+
+</resources>

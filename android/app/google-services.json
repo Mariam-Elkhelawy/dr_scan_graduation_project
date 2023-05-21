@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076599407396",
+    "project_id": "dr-scan-project",
+    "storage_bucket": "dr-scan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076599407396:android:da6b1acc21b920a627e9b1",
+        "android_client_info": {
+          "package_name": "com.example.dr_scan_graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076599407396-mrp3gnt3v449uvsl2nkvki3ocm4jjelm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApf18ozO3Nx23drZU04evRMx8rEqyH7vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076599407396-mrp3gnt3v449uvsl2nkvki3ocm4jjelm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
